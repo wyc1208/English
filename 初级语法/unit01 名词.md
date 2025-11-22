@@ -81,8 +81,11 @@ fish、deer、sheep、Chinese、Japanese
 
 **注意:** fish表示鱼的种类是可数名词
 ```
-- a kind of fish. 一种鱼。
-- two kinds of fishes. 两种鱼
-- one fish. 一条鱼。
-- two fish. 两条鱼。
+a kind of fish. 一种鱼。
+
+two kinds of fishes. 两种鱼
+
+one fish. 一条鱼。
+
+two fish. 两条鱼。
 ```
