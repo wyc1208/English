@@ -42,3 +42,23 @@ an armful of wood. 一把木材。
 > beauty、honesty、love、patience、happiness、music....
 
 ## 二、名词的数以及变化规律
+> 个数为1就是单数，个数为2以上就是复数
+
+### 2.1 规则变化
+1. 名词字尾加s: 大部分名词
+```
+dog - dogs、book - books、girl - girls
+```
+
+2. 名词字尾为s、sh、ch、x、o: 加es
+```
+class - classes、bus - buses、dish - dishes、bench - benches、box - boxes 
+```
+**注意:** 名词字尾为子音 +o, 复数名词加es,如:tomatoes，但是有例外: photos
+
+3. 名词字尾为fe或fe: 去f或fe + ves
+```
+leaf - leaves / wife - wives / knife - knives
+
+例外: handerchiefs、chiefs、roofs
+```
