@@ -89,3 +89,26 @@ one fish. 一条鱼。
 
 two fish. 两条鱼。
 ```
+
+## 三、名词所有格
+### 3.1 形成规则
+#### 3.1.1 单数名词: 名词's
+```
+the boy's schoolbag. 男孩的书包。
+
+Joea's dress. Joea的洋装。
+```
+
+#### 3.1.2 复数名词: 名词s'
+```
+a girls' school. 一所女子学校。
+
+these students' teacher. 这些学生们的老师。
+```
+
+### 3.2 共同所有格与个别所有格
+#### 3.2.1 共同所有格: 名词 + 名词... + 名词's
+```
+Harry and Bill's father is a scientist.
+Harry和Bill的爸爸是一个科学家。(同一个爸爸)
+```
