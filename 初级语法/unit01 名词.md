@@ -139,3 +139,38 @@ I met him at the baber's.(shop)
 We like to eat lunch at MacDoanld's.
 我们喜欢去那家素食餐厅吃午餐。
 ```
+
+## 四、冠词
+### 4.1 分类
+1. 定冠词: the, 通常放在名词前面，修饰名词,是名词的帽子。
+2. 不定冠词: a / an
+
+### 4.2 冠词的用法
+1. a + 子音开头的单数名词
+```
+a book、a girl、a young man
+```
+
+2. an + 母音开头的单数名词
+```
+an apple、an umbrella、an old woman
+```
+
+### 4.3 不定冠词
+> a / an的发音:强调的时候可以将/ə/变成/əi/
+
+```
+I read a novel. 我读一本小说。
+
+I read a novel, not two. 我读一本小说,不是两本。
+```
+
+### 4.4 定冠词the的用法
+> 母音前读/ði/, 子音前念/ðə/
+
+```
+Please shut the door. 请关门
+
+The rich aren't always happy. 有钱人并非总是快乐的。
+the + 形容词: 泛指....的人, 代表复数
+```
