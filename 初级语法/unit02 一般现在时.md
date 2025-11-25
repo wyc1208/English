@@ -98,3 +98,31 @@ Are you eating your lunch?  你正在吃午餐吗?
 ```
 如: cry - cries、study - studies
 ```
+
+### 2.3 have和has
+> have(有;吃)的单数动词为has
+
+- They have a lot of money. 他们有很多钱。
+- He has a lot of money. 他有很多钱。
+
+### 2.4 一般动词的否定句 
+```
+不可以在一般动词之后直接加not,需要借助助动词: do/does 
+
+do: 用于主词为I、you、复数 
+
+does: 用于主词为第三人称单数 
+```
+
+```
+肯定句: 主词 + 一般动词.....   
+
+否定句: 主词 + do/does + not + 原型动词..... 
+```
+
+例：
+```
+肯定句: The twin brothers go to school by bus. 双胞胎兄弟搭公交车去上学。
+
+否定句: The twin brother don't go to school by bus.
+```
