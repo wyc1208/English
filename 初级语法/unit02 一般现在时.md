@@ -13,3 +13,18 @@
 - 第一人称: I am a boy.
 - 第二人称: You are my sons.
 - 第三人称单数/单数名词: He is my student.
+
+### 1.2 be动词的否定
+> am / is / are + not
+
+#### 1.2.1 肯定句：主词 + am/are/is
+```
+He is a good baseball player.
+他是一个很优秀的棒球球员。
+```
+
+#### 1.2.2 否定句: 主词 + am/are/is + not....
+```
+He isn't a good baseball player.
+他不是一个优秀的棒球球员。
+```
