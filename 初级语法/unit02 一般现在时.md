@@ -28,3 +28,24 @@ He is a good baseball player.
 He isn't a good baseball player.
 他不是一个优秀的棒球球员。
 ```
+
+### 1.3 be动词的疑问句
+> 将be动词放在主词前面，句尾加上问号
+
+```
+肯定句: 主词 + am/are/is.....
+
+疑问句: Am/Are/Is + 主词....?
+```
+例1：
+```
+肯定句: That is his camera. 那是他的相机。
+
+疑问句: Is that his camera? 那是他的相机吗?
+```
+例2：
+```
+肯定句: The girl is a junior high school student. 这个女孩是国中生。
+
+疑问句: Is the girl a junior school student? 这个女孩是国中生吗?
+```
