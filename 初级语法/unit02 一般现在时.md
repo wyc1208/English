@@ -83,3 +83,18 @@ Are you eating your lunch?  你正在吃午餐吗?
 - 第二人称: You like dogs. / You like dogs.
 - 第三人称: He `likes` dogs. / They like dogs.
 
+### 2.2 一般动词加s或es的方法 
+1. 大部分动词加s,其发音为/s/（字尾无声）或者/z/（字尾有声）
+```
+如: works /s/、pays /z/
+```
+
+2. 一般动词字尾为o、s、sh、ch时,加es
+```
+如: goes /z/、washes /iz/
+```
+
+3. 一般动词字尾为子音+y时，需要去y+ies
+```
+如: cry - cries、study - studies
+```
