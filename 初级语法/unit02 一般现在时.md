@@ -74,3 +74,12 @@ Are you eating your lunch?  你正在吃午餐吗?
 
 回答: Yes, I am. / No, I am not.
 ```
+
+## 二、一般动词
+### 2.1 一般动词的现在时
+> 主词 + 一般动词： 现在时中，主词为第三人称单数，动词一般加s或es
+
+- 第一人称: I like dogs. / We like dogs.
+- 第二人称: You like dogs. / You like dogs.
+- 第三人称: He `likes` dogs. / They like dogs.
+
