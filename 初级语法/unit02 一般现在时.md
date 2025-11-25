@@ -126,3 +126,53 @@ does: 用于主词为第三人称单数
 
 否定句: The twin brother don't go to school by bus.
 ```
+
+### 2.5 be动词和一般动词否定句的比较 
+1. be动词
+```
+肯定句: He is my boyfriend.
+
+否定句: He isn't my boyfriend.
+```
+
+2. 一般动词
+```
+肯定句: He likes dogs.
+
+否定句: He doesn't like dogs.
+```
+
+### 2.6 一般动词的疑问句 
+```
+不可将一般动词放在主词的前面，需要借助助动词: do / does
+
+疑问句句型: Do / Does + 主词 + 原型动词....?
+```
+例1：
+```
+直述句: You visit your grandmother on Sunday.
+
+疑问句: Do you visit your grandmother on Sunday?
+```
+
+例2：
+```
+直述句: He comes from England.
+
+疑问句: Does he come from England?
+```
+
+### 2.7 be动词和一般动词疑问句的比较
+1. be动词
+```
+直述句: She is beautiful.
+
+疑问句: Is she beautiful?
+```
+
+2. 一般动词
+```
+直述句: She loves tennis.
+
+疑问句: Does she love tennis.
+```
