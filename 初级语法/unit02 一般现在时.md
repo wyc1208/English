@@ -49,3 +49,28 @@ He isn't a good baseball player.
 
 疑问句: Is the girl a junior school student? 这个女孩是国中生吗?
 ```
+
+### 1.4 be动词开头的疑问句的回答
+> 肯定用yes,否定用No
+
+```
+问句: Am/Are/Is + 主词....?  
+
+肯定回答: Yes, 主词 + am/are/is.  
+
+否定回答: No, 主词 + am/are/is + not.
+```
+例1：
+```
+Is that man your math teacher? 那个人是你的数学老师吗?
+
+肯定回答: Yes, he is.
+
+否定回答: No, he isn't.
+```
+例2：
+```
+Are you eating your lunch?  你正在吃午餐吗?
+
+回答: Yes, I am. / No, I am not.
+```
